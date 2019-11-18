@@ -1,0 +1,19 @@
+h1 {
+  color:green;
+  margin: 100px;
+  text-align: center;
+}
+h2 {
+  margin: 2em;
+}
+.important {
+  color: red;
+  font-weight: bold;
+}
+#my-main-title {
+  border: 3px solid purple;
+  text-align: left;
+}
+p {
+  width: 70%;
+}
